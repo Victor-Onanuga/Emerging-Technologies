@@ -4,7 +4,7 @@
 
 ## Table of Contents
 ### •	Introduction
-### •	Setup Instructions & Use:
+### •	Setup Instructions & Use
 ### •	Jupyter Notebooks
        • scikit-learn
        • quantum-deutsch
@@ -28,4 +28,6 @@
 ### This project consits of two of Jupyter's main notebooks: 
         • scikit-learn
         • quantum-deutsch
+        
+### scikit-learn walks through the many [algorithms](https://scikit-learn.org/stable/index.html) available in scikit-learn Machine Learning in Python. Additionally, it exhibits basic data visualization and provides instances of why huge organizations employ this site's algorithms.
 
