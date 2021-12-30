@@ -4,7 +4,8 @@
 
 ## Table of Contents
 ### •	Introduction
-### •	Setup Instructions & Use
+### •	Setup Instructions
+### •	How to run the Application
 ### •	Jupyter Notebooks
        • scikit-learn
        • quantum-deutsch
