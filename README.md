@@ -43,3 +43,18 @@
 ## Quantum-Computing
 ### A thorough examination of quantum computing and its classical counterpart is provided in quantum-deutsch. The [Deutsch-Jozsa Algorithm](https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm), developed by Deutsch, is then covered, and a simulation of it is performed using the qiskit Open-Source Quantum Development.
 
+## Author:
+### Victor Onanuga
+
+## References:
+### [Ian McLoughin](https://github.com/ianmcloughlin/)
+### [Deutsch-Jozsa Algorithm](https://qiskit.org/textbook/ch-algorithms/deutsch-jozsa.html)
+### [Scikit-learn](https://scikit-learn.org/stable/index.html)
+
+## Tools used:
+### • Cmder
+### • Docker
+### • Jupyter Lab
+### • Github
+### • Learnonline
+
