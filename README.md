@@ -41,6 +41,7 @@
 ### scikit-learn walks through the many [algorithms](https://scikit-learn.org/stable/index.html) available in scikit-learn Machine Learning in Python. Additionally, it exhibits basic data visualization and provides instances of why huge organizations employ this site's algorithms.
 
 ## Quantum-Computing
+![](https://cosmosmagazine.com/wp-content/uploads/2020/02/190705_quantum-1440x812.jpg?x56365)
 ### A thorough examination of quantum computing and its classical counterpart is provided in quantum-deutsch. The [Deutsch-Jozsa Algorithm](https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm), developed by Deutsch, is then covered, and a simulation of it is performed using the qiskit Open-Source Quantum Development.
 
 ## Author:
