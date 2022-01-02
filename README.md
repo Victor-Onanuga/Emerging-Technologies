@@ -21,6 +21,9 @@
 ### • Download & install [Anaconda](https://www.anaconda.com/)
 ### • Download & install [Cmder](https://cmder.net/) if on Windows
 ### • Download & install [Docker](https://docs.docker.com/get-docker/)
+### • Run the following commands in Cmder for Quantum Notebook:
+       -pip3 install qiskit
+       -pip install pylatexenc
 
 ## How to run the Application:
 1. Using either cmder or command prompt, navigate to the repository location. For example: C:cd Users/Owner/Repo/Emerging-Technologies/Assignment.
