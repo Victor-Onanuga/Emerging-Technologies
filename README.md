@@ -9,7 +9,6 @@
 ### •	Jupyter Notebooks
        • scikit-learn
        • quantum-deutsch
-### •	Requirements
 ### •	References
 ### •	Tools Used
 
