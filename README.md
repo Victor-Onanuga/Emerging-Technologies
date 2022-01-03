@@ -9,7 +9,6 @@
 ### •	Jupyter Notebooks
        • scikit-learn
        • quantum-deutsch
-### •	Requirements
 ### •	References
 ### •	Tools Used
 
@@ -53,7 +52,12 @@
 ## References:
 ### [Ian McLoughin](https://github.com/ianmcloughlin/)
 ### [Deutsch-Jozsa Algorithm](https://qiskit.org/textbook/ch-algorithms/deutsch-jozsa.html)
-### [Scikit-learn](https://scikit-learn.org/stable/index.html)
+### [Scikit-Learn](https://scikit-learn.org/stable/index.html)
+### [Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing)
+### [Quantum Circuit](https://en.wikipedia.org/wiki/Quantum_circuit)
+### [One-way Quantum Computer](https://en.wikipedia.org/wiki/One-way_quantum_computer)
+### [Quantum Cellular Automaton](https://en.wikipedia.org/wiki/Quantum_cellular_automaton)
+### [Classical Computing](https://whatis.techtarget.com/definition/classical-computing)
 
 ## Tools used:
 ### • Cmder
